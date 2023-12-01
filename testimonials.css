@@ -1,0 +1,169 @@
+.allTest {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/021/695/521/non_2x/multi-layers-blue-texture-3d-papercut-layers-in-gradient-banner-abstract-paper-cut-art-background-design-for-website-template-topography-map-concept-or-smooth-origami-paper-cut-vector.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    margin-top: -9%;
+}
+
+.testimonial {
+    text-align: center;
+    font-size: 150%;
+    color: white;
+    font-family: sans-serif;
+
+    margin-bottom: 5%;
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+
+.testimonials {
+    text-align: center;
+    font-size: 150%;
+    color: white;
+    font-family: sans-serif;
+
+    margin-bottom: 5%;
+}
+
+.testimonialss {
+    text-align: center;
+    font-size: 150%;
+    color: white;
+    font-family: sans-serif;
+
+    padding-bottom: 15%;
+    padding-top: 5%;
+}
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#navTop {
+    background-color: #333;
+    color: #fff;
+    padding: 1%;
+    text-align: right;
+    background-color: white;
+}
+
+.links {
+    text-align: right;
+    font-size: 130%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans&display=swap');
+
+.logo {
+    text-align: left;
+    color: white;
+    font-family: 'Expletus Sans', 'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-transform: bold;
+    -webkit-text-stroke: 2px rgb(2, 2, 78);
+
+    border:5px;
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 3%;
+}
+
+.hpBtn {
+    padding: 10%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    
+    border: solid black;
+    border-width: 0px;
+    border-radius: 15px;
+
+    color: transparent;
+
+    cursor: pointer;
+
+    background-image: url(https://cdn0.iconfinder.com/data/icons/ui-essential-filled-line/32/home-dashboard-main-menu-512.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.amBtn {
+    padding: 10%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    
+    border: solid black;
+    border-width: 0px;
+    border-radius: 15px;
+
+    color: transparent;
+
+    cursor: pointer;
+
+    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=4093dd26c1&attid=0.4&permmsgid=msg-a:r-3242658614101640669&th=18c1f49a80c60b47&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_j4tvM-_bUvUgNn5BidUhcsx3Bc9vNcXFnIlxcee-Q-krH5wWuvO2Y1bgnGKJjx33rVFvr_KDbzSoBi7O0zrLBffz--3raSzck8jwYVzbltbYXeFS4B7gpsL4&disp=emb&realattid=18c1f49a17bac48c02a1);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:scroll;
+}
+
+.pwBtn{
+    padding: 10%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+   
+    border: solid black;
+    border-width: 0px;
+    border-radius: 15px;
+
+    color: transparent;
+
+    cursor: pointer;
+
+    background-image: url(https://img.myloview.es/posters/computer-icon-in-trendy-flat-style-modern-pc-icon-for-web-app-and-ui-design-700-177098382.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:scroll;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center; 
+}
+
+.btnInfo {
+    display: flex;
+    justify-content: space-between;
+
+    margin-left: 10.5%;
+    margin-right: 17%;
+    margin-bottom: 10%;
+    margin-top: -4%;
+
+    font-size: 30px;
+    font-family: sans-serif;
+}
